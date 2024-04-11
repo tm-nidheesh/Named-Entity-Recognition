@@ -4,7 +4,9 @@ Named entity recognition using NLP.
 <img width="955" alt="NER" src="https://github.com/tm-nidheesh/Named-Entity-Recognition/assets/124424862/1e24a69e-ae3d-4888-9a7b-83cefbb343f9">
 
 
+
 Overview 
+
 This project is a Named Entity Recognition (NER) system designed to identify and classify named entities in text data. Named Entity Recognition is a subtask of information extraction that aims to locate and classify entities mentioned in unstructured text into predefined categories such as names of persons, organizations, locations, dates, etc.
 
 Features 
